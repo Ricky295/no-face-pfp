@@ -7,7 +7,7 @@ There’s an expectation creeping across digital platforms:
 
 But I’m here to say: **No. Not here. Not on GitHub.**
 
-Because GitHub is one of the last places where creativity and logic still take the front seat — and I refuse to sacrifice that for the illusion of “credibility” a face provides.
+Because GitHub remains one of the few places where creativity and logic take the front seat — and I refuse to sacrifice that for the illusion of “credibility” a face provides.
 
 ---
 
@@ -34,7 +34,7 @@ Uploading a face sounds harmless. But it **shifts your mindset**:
 > Creativity doesn't survive in performance.  
 > It needs room, rough edges, and the freedom to be wrong.
 
-Your real face, staring back, polices that freedom.
+Your real face, staring back, can police that freedom.
 
 ---
 
@@ -55,8 +55,7 @@ But a face? Especially a clean, smiling, job-hunting face?
 
 ## 💡 I’m Not a Brand. I’m a Person Who Thinks
 
-Faces are for marketing.  
-Faces are for sales, networking, self-promotion.  
+Faces are for marketing, sales, networking, and self-promotion.  
 That’s not why I’m here.
 
 I'm not a product — I'm a person with ideas.  
@@ -90,3 +89,10 @@ Because I believe in creativity.
 And because, let’s be honest —
 
 > **My real face is more boring than the default icon.**
+
+## 🌀 Want to use this too?
+
+You're welcome to reuse, remix, or adapt this message on your own profile.  
+Credit is appreciated but not required — the message matters more.
+
+Copy freely. Change boldly.
