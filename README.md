@@ -1,79 +1,92 @@
 # Why I Will Not Use My Face as a GitHub Profile Picture
 
-## This Is Not a Professional Statement — It's a Personal One
+## This Isn’t Just Personal — It’s Philosophical
 
-Some ask why I don’t use my real face here, as if that’s the default — as if **every profile must perform** for recruiters or the public.
+There’s an expectation creeping across digital platforms:  
+> Show your face, prove you’re real, look professional.
 
-But GitHub isn't LinkedIn. It was never meant to be.  
-And I’m not here to **package myself**.  
-I’m here to **create** — freely, personally, and on my own terms.
+But I’m here to say: **No. Not here. Not on GitHub.**
 
----
-
-## 🔧 GitHub Was Built for People, Not Products
-
-Before it was a job portfolio site, GitHub was a place to:
-- Build weird projects
-- Fork cool ideas
-- Collaborate casually
-- Learn through breaking things
-
-It was meant to be **personal**.  
-Not a showroom. Not a job pitch. Not a headshot hub.
-
-Putting a polished face on your profile pushes it closer to being a performance.  
-And that’s exactly what I’m resisting.
+Because GitHub is one of the last places where creativity and logic still take the front seat — and I refuse to sacrifice that for the illusion of “credibility” a face provides.
 
 ---
 
-## 🎨 Faces Kill Creativity
+## 🛠 GitHub Is Not a Résumé Site
 
-The moment you upload your face:
-- You start thinking about how you’re perceived.
-- You hesitate before uploading something rough or chaotic.
-- You present instead of explore.
+It started as a **personal playground**:
+- A space to share passion projects, not polish.
+- A space for experimentation, not presentation.
+- A space where code mattered more than credentials.
 
-> A face invites self-consciousness.  
-> Self-consciousness **kills experimentation**.  
-> And without experimentation, creation dies.
-
-I’d rather be underestimated and **free**, than "professional" and **edited**.
+Turning it into a place for clean portraits and self-marketing ruins the point.  
+I’m not here to look presentable.  
+I’m here to **build**, **break**, **learn**, and **think**.
 
 ---
 
-## 🧠 I Don’t Want to Be a Brand
+## 🎨 Real Faces Limit Real Creativity
 
-Using your face implies branding:  
-“Here I am. Recognize me. Trust this look.”
+Uploading a face sounds harmless. But it **shifts your mindset**:
+- You start wondering who’s watching.
+- You hesitate to share messy or half-baked work.
+- You subconsciously start *performing*.
 
-But I’m not here to sell myself.  
-I’m not a product. I’m a person — one who thinks, builds, and questions.  
-My face isn’t part of that equation.
+> Creativity doesn't survive in performance.  
+> It needs room, rough edges, and the freedom to be wrong.
 
----
-
-## 🧱 Small Norms Become Walls
-
-This might sound small — just a profile picture, right?
-
-But when every space asks for your real face, it adds up.  
-Suddenly, being anonymous is “unusual.”  
-Being expressive is “unprofessional.”  
-And being different is “wrong.”
-
-> I want to keep this space human.  
-> That means defending **freedom of identity** — even in the smallest ways.
+Your real face, staring back, polices that freedom.
 
 ---
 
-## 💬 Final Words
+## 🤖 A Face Is *More* Boring Than the Default
 
-This isn’t about hiding.  
-It’s about protecting the rare spaces where creativity, messiness, and identity don’t have to be polished.
+Think about it.
 
-So no — I will not use my face here.  
-Because GitHub is not a job interview.  
-It’s my corner of the digital world to **build, learn, and express** — not to fit in.
+Even GitHub’s **default identicons** — those little algorithm-generated patterns — are more expressive than a standard face:
+- They’re abstract, random, sometimes even memorable.
+- They signal "I’m here to create, not to pose."
 
-If you want to know me, read my code.  
-If you want to control me, good luck.
+But a face? Especially a clean, smiling, job-hunting face?
+
+> It’s the most **predictable**, **sanitized**, and **creatively dead** choice you can make.  
+> It says nothing except: *“I conform.”*
+
+---
+
+## 💡 I’m Not a Brand. I’m a Person Who Thinks
+
+Faces are for marketing.  
+Faces are for sales, networking, self-promotion.  
+That’s not why I’m here.
+
+I'm not a product — I'm a person with ideas.  
+And I'd rather let those ideas represent me than a square-cropped photo of my head.
+
+---
+
+## 🧱 Small Pressures Become Big Walls
+
+Sure — it’s “just a profile picture.”
+
+But when every platform demands your face, you stop asking **why**.  
+You start playing safe.  
+You stop expressing identity in new ways.
+
+> I believe in protecting freedom, even in the smallest acts of refusal.
+
+If that means rejecting a cultural norm to defend creative space — then good.  
+That’s exactly what I’ll do.
+
+---
+
+## 🧭 Final Word
+
+This is a personal profile, on a platform built for personal projects.  
+Not a corporate hallway. Not a networking stage. Not a headshot showroom.
+
+So no — I will not upload my face.  
+Because I believe in freedom.  
+Because I believe in creativity.  
+And because, let’s be honest —
+
+> **My real face is more boring than the default icon.**
